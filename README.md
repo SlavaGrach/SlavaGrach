@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SlavaGrach
-- 👀 I’m interested in JavaScript, Node.JS, React
+- 👀 I’m interested in JavaScript, Node.JS, React and DevOps
 - 📫 How to reach me https://t.me/SlavaGrach
 
 <!---
